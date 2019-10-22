@@ -170,12 +170,3 @@ class Game(object):
 
             # return result,diff
 
-
-# if __name__ == '__main__':
-#     from Human_player import HumanPlayer
-#     from Random_player import RandomPlayer
-
-#     x = HumanPlayer("X")
-#     o = RandomPlayer("O")
-#     game = Game(x, o)
-#     game.run()
